@@ -1,0 +1,10 @@
+name: apocalypse
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - astropy
+  - exoplanet
+  - python=3.7
+  - seaborn
+  - jupyterlab
